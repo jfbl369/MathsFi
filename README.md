@@ -5,7 +5,7 @@
 - [Drift d'un taux de change Xt sous la mesure Q](</Notes/CALCUL STOCHATIQUE - Drift d'u taux de change Xt sous la mesure risque neutre.pdf>)
 - [E(e^x)=e^(b+a/2)](</Notes/CALCUL STOCHATIQUE - E[e^x] = e^(b+a/2) (VF).pdf>)
 - [E(St|Ft)=e^u(t-s)_Ss](</Notes/CALCUL STOCHATIQUE - E[St | Ft]=e^u(t-s) _Ss.pdf>)
-- [Lemme d'Itô (court)](</Notes/CALCUL STOCHATIQUE - Lemme d'Itô (court).pdf>)
+- [Lemme d'Itô (court)](</Notes/CALCUL STOCHATIQUE - Lemme d'Itô (court).pdf>)
 - [Loi de ln(St)-ln(Ss)|Fs](</Notes/CALCUL STOCHATIQUE - Quelle est la loi de ln(St)-ln(Ss) sachant Fs.pdf>)
 - [Loi de (Wt-Ws)|Fs](</Notes/CALCUL STOCHATIQUE - Quelle est la loi de Wt-Ws sachant Fs.pdf>)
 
