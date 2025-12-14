@@ -4,6 +4,7 @@
 
 
 # Maths Basics
+- [Loi Normale (PDF)](</Notes/MATHS - Loi Normale (PDF).pdf>)
 
 
  
