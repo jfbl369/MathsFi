@@ -14,6 +14,7 @@
 
 # Maths Basics
 
+- [Espace Euclidien)](</Notes/CALCUL STOCHASTIQUE - Espace euclidien.pdf>)
 - [Démonstration de l'Espérance de X via la loi Normale](</Notes/MATHS -  E[X] (loi Normale).pdf>)
 - [Démonstration de la Variance](</Notes/MATHS - Démonstration de la Variance.pdf>)
 - [Loi Binomiale](</Notes/MATHS - Distribution - Loi Binomiale.pdf>)
