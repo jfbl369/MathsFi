@@ -1,5 +1,5 @@
 # Calculs Stochastiques
-- [Isométrie d'Itô (démonstration)](</Notes/CALCUL STOCHASTIQUE - Isométrie d'Itô - Démonstration.pdf>)
+- [Isométrie d'Itô](</Notes/CALCUL STOCHASTIQUE - Isométrie d'Itô - Démonstration.pdf>)
 - [Définition d'un mouvement Brownien](</Notes/CALCUL STOCHASTIQUE - Mouvement Brownien.pdf>)
 - [Formule explicite de Xt (Processus de Vasicek)](</Notes/CALCUL STOCHASTIQUE - Processus de Vasicek - Formule explicite.pdf>)
 - [Drift d'un taux de change Xt sous la mesure Q](</Notes/CALCUL STOCHATIQUE - Drift d'u taux de change Xt sous la mesure risque neutre.pdf>)
