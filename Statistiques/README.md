@@ -1,38 +1,26 @@
-# Projets
+# Statistiques
 
-- Heston stochastic model
-- Pricing d'option via différences finies
-- Equation Différentielle Stochastique (EDS)
-- Intégrale d'Itô
-- Surface de Vol via Black-Scholes
-- Lemme d'Itô
+- Random Variables
+- First Moments
+- Higher Moments
+- Gaussian Distribution
+- LLN
+- CLT
+- Dependence
+- Inference
+- P-Values
+- OLS Regression
+- Goodness of Fit
+- Regression Failures
+- Stationarity
+- Autocorrelation
+- Monte Carlo
+- MLE
+- Bayes Theorem
 
-
-# Calculs Stochastiques
-- [Isométrie d'Itô](</Notes/CALCUL STOCHASTIQUE - Isométrie d'Itô - Démonstration.pdf>)
-- [Définition d'un mouvement Brownien](</Notes/CALCUL STOCHASTIQUE - Mouvement Brownien.pdf>)
-- [Formule explicite de Xt (Processus de Vasicek)](</Notes/CALCUL STOCHASTIQUE - Processus de Vasicek - Formule explicite.pdf>)
-- [Drift d'un taux de change Xt sous la mesure Q](</Notes/CALCUL STOCHATIQUE - Drift d'u taux de change Xt sous la mesure risque neutre.pdf>)
-- [E(e^x)=e^(b+a/2)](</Notes/CALCUL STOCHATIQUE - E[e^x] = e^(b+a:2) (VF).pdf>)
-- [E(St|Ft)=e^u(t-s)_Ss](</Notes/CALCUL STOCHATIQUE - E[St | Ft]=e^u(t-s) _Ss.pdf>)
-- [Lemme d'Itô (court)](</Notes/CALCUL STOCHATIQUE - Lemme d'Itô (court).pdf>)
-- [Loi de ln(St)-ln(Ss)|Fs](</Notes/CALCUL STOCHATIQUE - Quelle est la loi de ln(St)-ln(Ss) sachant Fs.pdf>)
-- [Loi de (Wt-Ws)|Fs](</Notes/CALCUL STOCHATIQUE - Quelle est la loi de Wt-Ws sachant Fs.pdf>)
-
-
-
-
-# Maths Basics
-
-- [Espace Euclidien](</Notes/CALCUL STOCHASTIQUE - Espace euclidien.pdf>)
-- [Démonstration de l'Espérance de X via la loi Normale](</Notes/MATHS -  E[X] (loi Normale).pdf>)
-- [Démonstration de la Variance](</Notes/MATHS - Démonstration de la Variance.pdf>)
-- [Loi Binomiale](</Notes/MATHS - Distribution - Loi Binomiale.pdf>)
-- [Loi de Bernoulli](</Notes/MATHS - Distribution - Loi de Bernoulli.pdf>)
-- [Distribution Normale](</Notes/MATHS - Distribution - Loi Normale.pdf>)
-- [Loi Normale (PDF)](</Notes/MATHS - Loi Normale (PDF).pdf>)
-
-
- 
-# Vidéos
-- [Building a neural network FROM SCRATCH (no Tensorflow/Pytorch, just numpy & math)](https://www.youtube.com/watch?v=w8yWXqWQYmU)
+Topic Priority
+- Basics: PDF, CDF, Moments.
+- Distributions: Normal, Log-Normal, Fat Tails.
+- Inference: Hypothesis testing, P-Values.
+- Regression: OLS mechanics, Diagnostics.
+- Advanced: Monte Carlo, MLE, Bayes.
