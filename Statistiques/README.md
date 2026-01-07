@@ -19,8 +19,8 @@
 - Bayes Theorem
 
 Topic Priority
-Basics: PDF, CDF, Moments.
-Distributions: Normal, Log-Normal, Fat Tails.
-Inference: Hypothesis testing, P-Values.
-Regression: OLS mechanics, Diagnostics.
-Advanced: Monte Carlo, MLE, Bayes.
+- Basics: PDF, CDF, Moments.
+- Distributions: Normal, Log-Normal, Fat Tails.
+- Inference: Hypothesis testing, P-Values.
+- Regression: OLS mechanics, Diagnostics.
+- Advanced: Monte Carlo, MLE, Bayes.
