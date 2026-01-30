@@ -22,7 +22,7 @@
 
 
 
-# Maths Basics
+# VA et Espaces Probabilistes
 
 - [Espace Euclidien](</Notes/CALCUL STOCHASTIQUE - Espace euclidien.pdf>)
 - [Démonstration de l'Espérance de X via la loi Normale](</Notes/MATHS -  E[X] (loi Normale).pdf>)
