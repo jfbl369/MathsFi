@@ -1,4 +1,4 @@
-# Calculs Stochastiques
+# Calcul Stochastique
 
 1. Random Walk
 2. Brownian Motion
