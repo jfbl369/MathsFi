@@ -8,7 +8,7 @@
 - Lemme d'Itô
 
 
-# Calculs Stochastiques
+# Calcul Stochastique
 - [Isométrie d'Itô](</Notes/CALCUL STOCHASTIQUE - Isométrie d'Itô - Démonstration.pdf>)
 - [Définition d'un mouvement Brownien](</Notes/CALCUL STOCHASTIQUE - Mouvement Brownien.pdf>)
 - [Formule explicite de Xt (Processus de Vasicek)](</Notes/CALCUL STOCHASTIQUE - Processus de Vasicek - Formule explicite.pdf>)
