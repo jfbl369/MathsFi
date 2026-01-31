@@ -25,8 +25,6 @@
 * 2.3 Couverture d'options américaines.
 * 2.4 Prise en compte des dividendes.
 
-**3. Éléments de correction des exercices.**
-
 ---
 
 ## II. Calcul stochastique en temps continu
