@@ -1,5 +1,3 @@
-# Calcul Stochastique
-
 1. Random Walk
 2. Brownian Motion
 3. Martingales
