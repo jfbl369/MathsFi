@@ -39,7 +39,7 @@
 
 
 
-#Statistiques
+# Statistiques
 - Random Variables
 - First Moments
 - Higher Moments
