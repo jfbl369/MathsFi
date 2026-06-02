@@ -1,0 +1,12 @@
+{
+    "python.defaultInterpreterPath": "/Users/jefflefebure/Documents/GitHub/MathsFi/.venv/bin/python",
+    "jupyter.defaultKernel": "mathsfi-venv",
+    "jupyter.askForKernel": false,
+    "jupyter.jupyterServerType": "local",
+    "python.analysis.autoSearchPaths": true,
+    "python.analysis.typeCheckingMode": "basic",
+    "files.exclude": {
+        "**/.ipynb_checkpoints": true,
+        "**/.DS_Store": true
+    }
+}
